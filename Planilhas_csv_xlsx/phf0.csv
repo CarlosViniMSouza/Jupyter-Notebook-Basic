@@ -1,0 +1,81 @@
+Registros,Curso,Genero,Idade,Trabalha,Cursou_EnsinoMedio,Horas_EstudoSemana,Conhecimento_Matematica
+161,Engenharia,Masculino,18,Não,Escola Militar,36,4
+226,Engenharia,Masculino,20,Não,Escola Militar,20,3
+60,Engenharia,Feminino,26,Sim,Escola Técnica,10,3
+203,Engenharia,Masculino,19,Não,Escola Técnica,20,4
+258,Licenciatura em Computação,Masculino,17,Não,Escola Pública Normal,14,2
+123,Engenharia,Feminino,17,Não,Escola Técnica,24,4
+212,Engenharia,Masculino,18,Não,Escola Particular,5,5
+24,Engenharia,Masculino,20,Não,Escola Particular,20,3
+241,Engenharia,Masculino,21,Sim,Escola Técnica,2,3
+293,Engenharia,Masculino,17,Não,Escola Pública Normal,10,3
+257,Licenciatura em Computação,Masculino,18,Não,Escola Pública Normal,3,3
+197,Meteorologia,Feminino,17,Não,Escola Particular,16,3
+234,Engenharia,Masculino,17,Sim,Escola Técnica,1,4
+160,Engenharia,Masculino,18,Não,Escola Pública Normal,24,3
+83,Engenharia,Masculino,17,Não,Escola Particular,30,4
+59,Engenharia,Feminino,18,Não,Escola Pública Normal,40,3
+50,Engenharia,Masculino,17,Sim,Escola Técnica,2,4
+140,Meteorologia,Feminino,17,Não,Escola Pública Normal,3,2
+6,Engenharia,Masculino,18,Não,Escola Particular,28,3
+229,Engenharia,Masculino,18,Não,Escola Particular,18,4
+13,Engenharia,Masculino,19,Não,Escola Particular,60,3
+190,Engenharia,Feminino,20,Sim,Escola Pública Normal,20,3
+126,Engenharia,Masculino,19,Não,Escola Pública Normal,20,3
+28,Engenharia,Masculino,17,Não,Escola Particular,20,4
+61,Engenharia,Masculino,18,Não,Escola Pública Normal,2,3
+33,Engenharia,Masculino,17,Não,Escola Técnica,10,4
+127,Engenharia,Masculino,17,Não,Escola Particular,27,3
+20,Engenharia,Feminino,19,Não,Escola Pública Normal,8,4
+43,Engenharia,Masculino,17,Não,Escola Militar,30,3
+138,Meteorologia,Masculino,18,Não,Escola Particular,2,4
+119,Engenharia,Feminino,18,Não,Escola Militar,15,3
+105,Engenharia,Masculino,19,Não,Escola Técnica,2,3
+103,Engenharia,Masculino,18,Não,Escola Militar,14,4
+162,Engenharia,Masculino,17,Não,Escola Pública Normal,20,3
+16,Engenharia,Feminino,24,Não,Escola Particular,4,2
+18,Engenharia,Masculino,18,Não,Escola Militar,20,3
+107,Engenharia,Masculino,18,Não,Escola Técnica,8,3
+23,Engenharia,Masculino,18,Não,Escola Militar,40,4
+183,Engenharia,Masculino,17,Não,Escola Militar,10,3
+146,Engenharia,Masculino,17,Não,Escola Particular,40,3
+17,Engenharia,Masculino,17,Não,Escola Técnica,16,3
+269,Licenciatura em Computação,Masculino,17,Não,Escola Pública Normal,1,1
+21,Engenharia,Feminino,19,Não,Escola Pública Normal,8,2
+37,Engenharia,Masculino,26,Sim,Escola Técnica,1,2
+185,Engenharia,Masculino,21,Não,Escola Pública Normal,2,2
+239,Engenharia,Masculino,18,Não,Escola Pública Normal,10,3
+196,Meteorologia,Masculino,26,Sim,Escola Técnica,7,3
+151,Engenharia,Masculino,17,Sim,Escola Particular,20,3
+242,Engenharia,Masculino,25,Sim,Escola Pública Normal,1,3
+255,Licenciatura em Computação,Masculino,22,Não,Escola Pública Normal,1,2
+194,Engenharia,Masculino,17,Não,Escola Particular,5,5
+12,Engenharia,Feminino,17,Não,Escola Pública Normal,4,3
+118,Engenharia,Masculino,18,Não,Escola Pública Normal,50,3
+235,Engenharia,Feminino,18,Não,Escola Pública Normal,3,3
+182,Engenharia,Masculino,19,Não,Escola Técnica,26,2
+282,Licenciatura em Computação,Masculino,17,Não,Escola Pública Normal,10,2
+144,Engenharia,Masculino,17,Não,Escola Particular,40,3
+97,Engenharia,Masculino,18,Não,Escola Particular,28,5
+85,Meteorologia,Masculino,39,Não,Escola Técnica,12,3
+225,Engenharia,Feminino,17,Não,Escola Pública Normal,10,3
+175,Engenharia,Feminino,18,Não,Escola Técnica,2,3
+19,Engenharia,Feminino,18,Não,Escola Pública Normal,11,4
+86,Meteorologia,Feminino,18,Não,Escola Pública Normal,5,2
+238,Engenharia,Feminino,17,Sim,Escola Pública Normal,60,3
+39,Engenharia,Masculino,18,Não,Escola Particular,5,4
+245,Engenharia,Masculino,18,Não,Escola Pública Normal,10,3
+134,Engenharia,Feminino,18,Não,Escola Técnica,15,4
+42,Engenharia,Feminino,17,Não,Escola Particular,30,3
+152,Engenharia,Masculino,18,Não,Escola Particular,10,4
+198,Meteorologia,Feminino,17,Não,Escola Pública Normal,2,1
+104,Engenharia,Feminino,17,Não,Escola Particular,20,4
+199,Meteorologia,Feminino,17,Não,Escola Técnica,10,3
+256,Licenciatura em Computação,Feminino,17,Não,Escola Pública Normal,2,2
+169,Engenharia,Masculino,18,Não,Escola Particular,10,3
+136,Licenciatura em Computação,Masculino,18,Não,Escola Particular,10,3
+147,Engenharia,Feminino,17,Sim,Escola Particular,10,4
+171,Engenharia,Masculino,20,Não,Escola Pública Normal,2,2
+261,Engenharia,Feminino,17,Não,Escola Militar,5,4
+173,Meteorologia,Feminino,18,Não,Escola Pública Normal,8,2
+230,Engenharia,Masculino,18,Não,Escola Particular,15,4
