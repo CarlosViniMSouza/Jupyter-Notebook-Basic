@@ -1,8 +1,8 @@
   PROGRAMAS JUPYTER NOTEBOOK (ANACONDA NAVIGATOR)
 
-<img src="https://github.com/CarlosViniMSouza/Programas-Jupyter-Notebook/blob/master/Planilhas_csv_xlsx/datascience-pdusit-stock.jpg" alt ="imagem description" width="850" height="400">
+<img src="https://www.clipartmax.com/png/middle/250-2501985_siks-cbs-datacamp-spark-tutorial-notebook-jupyter-notebook-icon.png" alt ="imagem description" width="650" height="400">
 
-- URL(Imagem) : https://img.deusm.com/informationweek/November19/datascience-pdusit-stock.jpg
+- URL(Imagem) : https://www.clipartmax.com/png/middle/250-2501985_siks-cbs-datacamp-spark-tutorial-notebook-jupyter-notebook-icon.png
 
 - Utilidade : Armazenado todos os trabalhos, projetos e programas-teste referentes a Ciência de Dados, Análise de Dados e Aprendizado de Máquina (Data Science, Data Analysis and Big Data).
 
