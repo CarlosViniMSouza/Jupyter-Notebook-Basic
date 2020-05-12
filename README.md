@@ -1,6 +1,6 @@
   PROGRAMAS JUPYTER NOTEBOOK (ANACONDA NAVIGATOR)
 
-<img src="https://www.clipartmax.com/png/middle/250-2501985_siks-cbs-datacamp-spark-tutorial-notebook-jupyter-notebook-icon.png" alt ="imagem description" width="650" height="400">
+<img src="https://www.clipartmax.com/png/middle/250-2501985_siks-cbs-datacamp-spark-tutorial-notebook-jupyter-notebook-icon.png" alt ="imagem description" width="550" height="250">
 
 - URL(Imagem) : https://www.clipartmax.com/png/middle/250-2501985_siks-cbs-datacamp-spark-tutorial-notebook-jupyter-notebook-icon.png
 
